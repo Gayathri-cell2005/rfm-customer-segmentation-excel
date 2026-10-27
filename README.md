@@ -93,7 +93,20 @@ Total estimated upside is about £292K (3.3% of revenue). These are assumption-d
 Cover → Dashboard → Insights → RFM Table → Cohort → Clean Data (1,000-row sample) → Data Notes
 
 ## Screenshots
-Add: `dashboard.png`, `cohort_heatmap.png`, `pareto.png`, `power_query_steps.png`.
+### Dashboard
+![Dashboard](dashboard.png)
+
+### Insights
+![Insights](insights.png)
+
+### Cohort retention
+![Cohort](cohort.png)
+
+### RFM table
+![RFM Table](rfm_table.png)
+
+### Data notes
+![Data Notes](data_notes.png)
 
 ## Tools
 Excel (Power Query, Power Pivot/DAX, PivotCharts, slicers, conditional formatting).
