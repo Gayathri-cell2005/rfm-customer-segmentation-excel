@@ -2,7 +2,7 @@
 
 An end-to-end RFM project on the UCI Online Retail dataset (Dec 2010 to Dec 2011): data cleaning in Power Query, RFM scoring and segmentation, cohort retention, churn, CLV, Pareto analysis, and an interactive dashboard with slicers, all in Excel.
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Business problem
 An online retailer treats every customer the same. This project answers:
